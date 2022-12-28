@@ -1,0 +1,3 @@
+--README Make sure to subscribe to (Plamen6789) for making this script, the start of the message is sus, so be aware, and there is Crucfix that works on eyes, and it wont work for the real eyes, you have to spawn it by yourself, you can spawn rush, ambush, eyes, eyes Killable, A-60 and more.--
+ 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/DoorsEntitySummonerGUI/main/EntityGUI'))()
